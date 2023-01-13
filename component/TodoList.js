@@ -26,5 +26,3 @@ function TodoList(props) {
 }
 
 export default connector(TodoList);
-
-// duma xin that, ng ta gioi qua T___T

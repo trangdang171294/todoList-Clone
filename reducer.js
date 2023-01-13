@@ -57,5 +57,3 @@ export default function reducer(state = init, action, args) {
   actions[action] && actions[action](state, ...args);
   return state;
 }
-
-// eu xin xo con bo, dm kho vl ra chac minh ko theo dk mat, fuckkkk
